@@ -3858,7 +3858,7 @@ a#slide{
     color:#fff;
     background:#262626;
     border-radius:3px;
-    z-index:31
+    z-index:31;
     transition: 0.2s linear all;
     }
 
