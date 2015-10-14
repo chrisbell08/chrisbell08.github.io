@@ -3860,6 +3860,7 @@ a#slide{
     border-radius:3px;
     z-index:31;
     transition: 0.2s linear all;
+    cursor: pointer !important;
     }
 
 a#slide:hover{
