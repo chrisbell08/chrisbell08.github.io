@@ -3866,7 +3866,7 @@ a#slide:hover{
     }
 
 a#slide:after{
-    content:"F"
+    content:"Menu"
     }
 
 a#slide.slide:after{
