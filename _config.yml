@@ -1,5 +1,5 @@
-title:            HMFAYSAL
-description:      "Omega: The Coolest Theme for Jekyll"
+title:            Chris' Blog
+description:      "My rambling thoughts on the web and life in general"
 logo:             omikron.png
 disqus_shortname: hmfaysal
 # Assign a default image for your site's header and footer
@@ -18,29 +18,22 @@ fin_color:        "255,255,255"
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-url:       		   /hmfaysal-omega-theme
+url:       		   https://chrisbell08.github.io/
 
 # Owner/author information
 owner:
-  name:           Hossain Mohd Faysal
+  name:           Chris Bell
   avatar:         hmfaysal.jpg
-  email:          hmfaysal@alum.mit.edu
+  email:          chris@mangohill.net
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Hossain Mohammad Faysal is an Electrical Engineer and a Mathematician based in Doha, Qatar. His interests are anything that&#8217;s related to math, from math itself to programming languages to music to physics to engineering to philosophy.
+  description:    
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        hmfaysal
-  facebook:       hmfaysal
-  github:         hmfaysal
-  stackexchange:  https://stackexchange.com/users/3402032/hossain-mohd-faysal
-  linkedin:       https://www.linkedin.com/pub/firstname-lastname/12/345/678
-  instagram:      
-  flickr:         
-  tumblr:         
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://plus.google.com/u/0/102602916593522619858
+  twitter:        _chrisbelluk
+  github:         chrisbell08
+  linkedin:       https://uk.linkedin.com/in/chrisbell08
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-39365944-7
+google_analytics:   UA-68887202-1
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
@@ -52,17 +45,15 @@ links:
     url: /
     external: false
     icon: home
-  - title: <i class="icon-book"></i> Documentation
-    url: /documentation
   - title: Categories
     url: /categories
   - title: Tags
     url: /tags
-  - title: Faysal who?
-    url: /hossain-mohd-faysal
+  - title: Chris who?
+    url: /chris-who
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/London
 future:      true
 highlighter: pygments
 markdown:    kramdown
@@ -88,8 +79,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://hmfaysal.github.io/'
-  relativeLinks: 'http://hmfaysal.github.io/links.jsonp'
+  siteurl: 'http://chrisbell08.github.io/'
+  relativeLinks: 'http://chrisbell08.github.io/links.jsonp'
   media: 'images'
   metadata:
     _posts:
