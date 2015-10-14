@@ -1,5 +1,5 @@
-title:            Chris Bell's Blog
-description:      "My rambling thoughts"
+title:            Chris' Blog
+description:      "My rambling thoughts on the web and life in general"
 logo:             omikron.png
 disqus_shortname: hmfaysal
 # Assign a default image for your site's header and footer
@@ -28,19 +28,12 @@ owner:
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        hmfaysal
-  facebook:       hmfaysal
-  github:         hmfaysal
-  stackexchange:  https://stackexchange.com/users/3402032/hossain-mohd-faysal
-  linkedin:       https://www.linkedin.com/pub/firstname-lastname/12/345/678
-  instagram:      
-  flickr:         
-  tumblr:         
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://plus.google.com/u/0/102602916593522619858
+  twitter:        _chrisbelluk
+  github:         chrisbell08
+  linkedin:       https://uk.linkedin.com/in/chrisbell08
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
+google_analytics:   UA-68887202-1
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
@@ -52,17 +45,15 @@ links:
     url: /
     external: false
     icon: home
-  - title: <i class="icon-book"></i> Documentation
-    url: /documentation
   - title: Categories
     url: /categories
   - title: Tags
     url: /tags
-  - title: Faysal who?
-    url: /hossain-mohd-faysal
+  - title: Chris who?
+    url: /chris-who
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/London
 future:      true
 highlighter: pygments
 markdown:    kramdown
