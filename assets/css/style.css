@@ -3849,7 +3849,7 @@ body {
 a#slide{
     position:fixed;
     display:block;
-    width:40px;
+    width:65px;
     height:40px;
     top:10px;
     left:10px;
@@ -3859,6 +3859,7 @@ a#slide{
     background:#262626;
     border-radius:3px;
     z-index:31
+    transition: 0.2s linear all;
     }
 
 a#slide:hover{
