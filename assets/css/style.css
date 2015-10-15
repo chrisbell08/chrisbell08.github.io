@@ -3,14 +3,6 @@
 @import url(http://fonts.googleapis.com/css?family=Raleway:400,300,100,700);
 @import url(http://fonts.googleapis.com/css?family=Sacramento);
 
-/*!
- * HMFAYSAL OMEGA v1.0.1
- * Responsive Jekyll Theme
- *
- * Copyright 2014 Hossain Mohd Faysal
- *
- * Designed and built with all the love in the world by @hmfaysal
- */
 /* ------------------------ */
 /* GENERAL TYPOGRAPHY RULES */
 /* ------------------------ */
@@ -468,6 +460,10 @@ html {
 /* - Brand - */
 .brand img {
   max-height: 120px;
+   border-radius: 5px;
+    -webkit-box-shadow: 0 8px 6px -6px black;
+     -moz-box-shadow: 0 8px 6px -6px black;
+          box-shadow: 0 8px 6px -6px black;
 }
 /* - Blog title and description - */
 .blog-title {
@@ -4056,11 +4052,3 @@ body.slide{
 
 
 /*      End-Responsive      */
-
-/* Custom Styles */
-.brand img {
-  border-radius: 5px;
-    -webkit-box-shadow: 0 8px 6px -6px black;
-     -moz-box-shadow: 0 8px 6px -6px black;
-          box-shadow: 0 8px 6px -6px black;
-}
