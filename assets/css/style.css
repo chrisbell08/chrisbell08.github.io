@@ -633,14 +633,26 @@ html {
 }
 /* - Theme Backgrounds - */
 .blog-background {
+  overflow: hidden;
+  position: relative;
+}
+.blog-background::before {
   background-repeat: no-repeat;
   background-position: center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  background-attachment: fixed;
+  will-change: transform;
+  z-index: -1;
+  content: ' ';
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
 }
+
 @media (max-width: 1024px) {
   .blog-background {
     background-attachment: scroll;
