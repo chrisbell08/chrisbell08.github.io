@@ -23,7 +23,7 @@ Developer of cool things with:
 
 *I'm an experienced developer currently working for Purpose Media in Derby*
 
-I have experience in many Front End Technologies including SASS, Javascript, JQuer & Grunt. I also have a lot of experience with the PHP framework Laravel. 
+I have experience in many Front End Technologies including SASS, Javascript, JQuery & Grunt. I also have a lot of experience with the PHP framework Laravel. 
 
 CMS wise I do a lot of work with WordPress and Perch.
 
