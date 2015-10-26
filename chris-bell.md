@@ -21,14 +21,6 @@ Developer of cool things with:
 >
 >Jeykll
 
-*I'm an experienced developer currently working for Purpose Media in Derby*
-
-I have experience in many Front End Technologies including SASS, Javascript, JQuery & Grunt. I also have a lot of experience with the PHP framework Laravel. 
-
-CMS wise I do a lot of work with WordPress and Perch.
-
-When not working I like to level up my skills using Treehouse. I also like to listen to podcasts such as the Shop Talk Show, Codepen Radio, The Web Ahead and Boagworld.
-
 I blog about...
 
 > The Web
@@ -40,3 +32,5 @@ I blog about...
 > Boxing,
 > 
 > Rugby.
+
+Find out more about me @ http://chrisbell.mangohill.net
